@@ -1,8 +1,0 @@
-Bash
-Internet
-Lambda
-Oracle
-Totvs
-Trybe <3
-Unix
-Xp
