@@ -1,0 +1,35 @@
+h1{
+    font-size: 65px;
+    color: orange;
+    font-family: sans-serif, Helvetica;
+}
+
+p{
+    font-weight: 600;
+    font-size: 3em;
+}
+
+ul {
+    background-color:palevioletred ;
+}
+
+body {
+    font: size 16px; ;
+}
+
+.cor-de-fundo{
+background-color: aquamarine;
+}
+
+li{
+    font-style: italic;
+    line-height: 60px;
+    text-align: left;
+    text-decoration: underline;
+
+    font-size: 2em;
+}
+
+    #yellow{background-color: yellow; }
+    #red {background-color: red; }
+    #brown {background-color:brown; }
